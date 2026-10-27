@@ -1,0 +1,10 @@
+{
+  "name": "nova-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end encryption core of Nova Mail (Web Crypto, no dependencies)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
